@@ -1,8 +1,8 @@
----
+-------------------------
 title: Sensor Simulation
----
+-------------------------
 
-# Sensor Simulation
+# Sensor Simulation ----->
 
 Accurate sensor simulation is crucial for developing and testing perception algorithms. Both Gazebo and Unity provide a wide range of sensor models.
 
