@@ -1,7 +1,7 @@
----
-sidebar_position: 1
+---------------------------
+sidebar_position: (1)
 title: Introduction Of Book
----
+----------------------------
 
 # Welcome to Physical AI & Humanoid Robotics
 
